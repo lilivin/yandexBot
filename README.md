@@ -1,4 +1,9 @@
 # yandexBot
+Wersje:
+ruskieRestauracje.exe - Pierwsza wersja bota - brak logowania, tylko restauracje z Moskwy.
+moskwaRestauracjeBot.exe - Logowanie do Yandex, restauracje z Moskwy.
+saintPetersburgRestauracjeBot - Logowanie do Yandexm restauracje z SaintPetersburga i okolic.
+
 
 Cześć! Bardzo mi miło, że chcesz nam pomóc zagłoszyć rosyjską propagandę. Możesz odpalić bota na 2 sposoby:
   
@@ -6,6 +11,9 @@ Cześć! Bardzo mi miło, że chcesz nam pomóc zagłoszyć rosyjską propagand�
 zatwierdź, że plik jest z zaufanego źródła lub w inny sposób obejdź antywirusa(w zależności jakiego masz) i ciesz się działaniem bota!
   2) Pobrać plik .py i skonfigurować środowisko Python i geckodriver. Całość konfiguracji jest w filmiku do którego link daje poniżej. Całość jest dłuższa niż opcja
 pierwsza, jednak masz możliwość edycji kodu.
+
+UWAGA!
+- Po prawidłowego działania bota potrzebna jest przeglądarka Google Chrome oraz konto na Yandex
 
 
 Filmik: https://www.youtube.com/watch?v=_u2KyQ4b_eM
